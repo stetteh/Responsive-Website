@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter);
+body{
+	font-family: 'Bitter', serif;
+	letter-spacing: 2px;
+	text-align: center;
+}
+.top{
+	padding-top: 5px;
+}
+footer{
+	background-color: #1277C2;
+	color: #FFFFFF;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.main{
+	text-align: left;
+}
+h2.main{
+	color: #1277C2;
+}
+h3.main{
+	color: #1277C2;
+}
+.jumbotron{
+	background-image: url('https://unsplash.it/1400/400?image=907');
+	height: 100%;
+	color: #FFFFFF;
+}
+
